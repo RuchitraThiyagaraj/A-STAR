@@ -50,6 +50,7 @@
 
 ``````
 <H3>PROGRAM</H3>
+<hr>
 ``````
 from collections import defaultdict
 H_dist ={}
@@ -112,6 +113,7 @@ while len(open_set) > 0:
 print('Path does not exist!')
 return None
 ``````
+</hr>
 
 <hr>
 <h2>Sample Graph I</h2>
